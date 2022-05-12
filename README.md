@@ -2,11 +2,11 @@
 	<main>
 		<div class="content-wrapper">
 			<div class="content-inner">
-				<h2>Magento 2 Multiple Wishlists Extension</h2>
-				<p><strong><a href="">Magento 2 Multiple Wishlists Extension</a></strong> helps customers to create multiple wishlists as per their needed categories and according to their needs. Guests can create unlimited wishlists to add products to it instead of leaving the product page without buying, so they can shop some days later.</p>
+				<h1>Magento 2 Multiple Wishlists Extension</h1>
+				<p><strong><a href="https://www.mageants.com/multiple-wishlists-extension-for-magento-2.html">Magento 2 Multiple Wishlists</a></strong> helps customers to create multiple wishlists as per their needed categories and according to their needs. Guests can create unlimited wishlists to add products to it instead of leaving the product page without buying, so they can shop some days later.</p>
 				<p>A store owner easily targets the right customer to buy their added wishlist product via the notification alert and messages.</p>
 				<div class="features-wrapper">
-					<h3>Key Features</h3>
+					<h2>Key Features</h2>
 					<ul>
 						<li>Customers will be able to customize their lists to best suit their needs.</li>
 						<li>Customers also leave notes and comments in multiple wishlists Magento 2.</li>
